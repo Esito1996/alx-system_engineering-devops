@@ -36,5 +36,6 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-The image diagram I made is [here](https://github.com/Esito1996/alx-system_engineering-devops/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
+The image diagram I made is [here](https://github.com/Esito1996/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
+
 
